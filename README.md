@@ -15,7 +15,7 @@
 ## Architecture
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1y1Qbkz1i7MBjSQHAHHUegVnRTvC5w5-2/view?usp=sharing" alt="Demo Screenshot" width="800">
+  <img src="img/DockerizedWebDev.drawio.png" alt="Demo Screenshot" width="800">
 </p>
 
 ## Features
