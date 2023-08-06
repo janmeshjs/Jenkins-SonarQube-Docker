@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="#Architecture">Architecture</a> •
-  <a href="#getting-started">Features</a> •
+  <a href="#Features">Features</a> •
   <a href="#license">License</a>
 </p>
 
